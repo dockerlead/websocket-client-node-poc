@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/crazyoptimist/websocket-client-poc-node.git"
+    "url": "git://github.com/dockerlead/websocket-client-node-poc.git"
   },
   "keywords": [],
-  "author": "crazyoptimist <crazyoptimist@mail.com>",
+  "author": "dockerlead <dockerlead@mail.com>",
   "license": "ISC"
 }
