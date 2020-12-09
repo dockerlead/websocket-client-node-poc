@@ -1,0 +1,21 @@
+{
+  "name": "websocket-client-poc-node",
+  "version": "1.0.0",
+  "description": "A simple websocket client example",
+  "main": "app.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crazyoptimist/websocket-client-poc-node.git"
+  },
+  "keywords": [],
+  "author": "crazyoptimist <crazyoptimist@mail.com>",
+  "license": "ISC"
+}
